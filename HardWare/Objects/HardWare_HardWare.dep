@@ -1,0 +1,138 @@
+Dependencies for Project 'HardWare', Target 'HardWare': (DO NOT MODIFY !)
+F (.\USR\main.c)(0x56500A9A)(--cpp -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8-I G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\RTE_Driver-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (USR\hardware.h)(0x56500A9A)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\RTE_Components.h)(0x564E9D15)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625B70C)
+I (G:\StudySoftware\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52F9EDD0)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+F (.\USR\hardware.cpp)(0x56504F5E)(--cpp -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8-I G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\RTE_Driver-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\hardware_1.o --omf_browse .\objects\hardware_1.crf --depend .\objects\hardware_1.d)
+I (USR\hardware.h)(0x56500A9A)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\RTE_Components.h)(0x564E9D15)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625B70C)
+I (G:\StudySoftware\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52F9EDD0)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+F (.\USR\Hardware.h)(0x56500A9A)()
+F (..\..\usart.c)(0x565010B5)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8-I G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\RTE_Driver-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\usart.o --omf_browse .\objects\usart.crf --depend .\objects\usart.d)
+I (..\..\usart.h)(0x565010B4)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\RTE_Components.h)(0x564E9D15)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625B70C)
+I (G:\StudySoftware\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52F9EDD0)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+F (..\..\usart.h)(0x565010B4)()
+F (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\src\misc.c)(0x52F9EB20)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8-I G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\RTE_Driver-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\misc.o --omf_browse .\objects\misc.crf --depend .\objects\misc.d)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\RTE_Components.h)(0x564E9D15)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625B70C)
+I (G:\StudySoftware\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52F9EDD0)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+F (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\src\stm32f10x_gpio.c)(0x52F9EB20)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8-I G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\RTE_Driver-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\stm32f10x_gpio.o --omf_browse .\objects\stm32f10x_gpio.crf --depend .\objects\stm32f10x_gpio.d)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\RTE_Components.h)(0x564E9D15)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625B70C)
+I (G:\StudySoftware\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52F9EDD0)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+F (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\src\stm32f10x_rcc.c)(0x52F9EB20)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8-I G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\RTE_Driver-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\stm32f10x_rcc.o --omf_browse .\objects\stm32f10x_rcc.crf --depend .\objects\stm32f10x_rcc.d)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\RTE_Components.h)(0x564E9D15)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625B70C)
+I (G:\StudySoftware\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52F9EDD0)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+F (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\src\stm32f10x_usart.c)(0x52F9EB20)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8-I G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\RTE_Driver-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\stm32f10x_usart.o --omf_browse .\objects\stm32f10x_usart.crf --depend .\objects\stm32f10x_usart.d)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\RTE_Components.h)(0x564E9D15)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625B70C)
+I (G:\StudySoftware\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52F9EDD0)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+F (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\RTE_Driver\GPIO_STM32F10x.c)(0x5617291E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8-I G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\RTE_Driver-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\gpio_stm32f10x.o --omf_browse .\objects\gpio_stm32f10x.crf --depend .\objects\gpio_stm32f10x.d)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\RTE_Driver\GPIO_STM32F10x.h)(0x5617291E)
+I (G:\StudySoftware\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55DB2B76)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\RTE_Components.h)(0x564E9D15)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625B70C)
+I (G:\StudySoftware\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52F9EDD0)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+F (RTE\Device\STM32F103C8\RTE_Device.h)(0x5615ADFE)()
+F (RTE\Device\STM32F103C8\startup_stm32f10x_md.s)(0x4F1E2E3C)(--cpu Cortex-M3 -g --apcs=interwork -I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8-I G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\RTE_Driver--pd "__UVISION_VERSION SETA 517" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52F9EDD0)()
+F (RTE\Device\STM32F103C8\system_stm32f10x.c)(0x4F1E2E3C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE-I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8-I G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc-I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\RTE_Driver-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\RTE_Components.h)(0x564E9D15)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625B70C)
+I (G:\StudySoftware\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52F9EDD0)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)

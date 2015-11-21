@@ -1,9 +1,0 @@
---cpp -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections
--I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE
--I D:\Study\STM32\STM32Projiect\STM32\HardWare\RTE\Device\STM32F103C8
--I G:\StudySoftware\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include
--I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include
--I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc
--I G:\StudySoftware\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\RTE_Driver
--D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD
--o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d "USR\main.c"
