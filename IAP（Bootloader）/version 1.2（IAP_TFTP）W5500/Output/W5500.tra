@@ -1,0 +1,42 @@
+*** Creating Trace Output File '..\..\Output\W5500.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\..\output\startup_stm32f10x_hd.o"'
+### List of Objects: adding '"..\..\output\core_cm3.o"'
+### List of Objects: adding '"..\..\output\system_stm32f10x.o"'
+### List of Objects: adding '"..\..\output\misc.o"'
+### List of Objects: adding '"..\..\output\stm32f10x_bkp.o"'
+### List of Objects: adding '"..\..\output\stm32f10x_exti.o"'
+### List of Objects: adding '"..\..\output\stm32f10x_flash.o"'
+### List of Objects: adding '"..\..\output\stm32f10x_gpio.o"'
+### List of Objects: adding '"..\..\output\stm32f10x_rcc.o"'
+### List of Objects: adding '"..\..\output\stm32f10x_spi.o"'
+### List of Objects: adding '"..\..\output\stm32f10x_tim.o"'
+### List of Objects: adding '"..\..\output\stm32f10x_usart.o"'
+### List of Objects: adding '"..\..\output\at24c16.o"'
+### List of Objects: adding '"..\..\output\device.o"'
+### List of Objects: adding '"..\..\output\main.o"'
+### List of Objects: adding '"..\..\output\mcu_init.o"'
+### List of Objects: adding '"..\..\output\sockutil.o"'
+### List of Objects: adding '"..\..\output\stm32f10x_it.o"'
+### List of Objects: adding '"..\..\output\util.o"'
+### List of Objects: adding '"..\..\output\dhcp.o"'
+### List of Objects: adding '"..\..\output\md5.o"'
+### List of Objects: adding '"..\..\output\socket.o"'
+### List of Objects: adding '"..\..\output\spi2.o"'
+### List of Objects: adding '"..\..\output\w5500.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\..\output\startup_stm32f10x_hd.o" "..\..\output\core_cm3.o" "..\..\output\system_stm32f10x.o" "..\..\output\misc.o" "..\..\output\stm32f10x_bkp.o" "..\..\output\stm32f10x_exti.o" "..\..\output\stm32f10x_flash.o" "..\..\output\stm32f10x_gpio.o" "..\..\output\stm32f10x_rcc.o" "..\..\output\stm32f10x_spi.o" "..\..\output\stm32f10x_tim.o" "..\..\output\stm32f10x_usart.o" "..\..\output\at24c16.o" "..\..\output\device.o" "..\..\output\main.o" "..\..\output\mcu_init.o" "..\..\output\sockutil.o" "..\..\output\stm32f10x_it.o" "..\..\output\util.o" "..\..\output\dhcp.o" "..\..\output\md5.o" "..\..\output\socket.o" "..\..\output\spi2.o" "..\..\output\w5500.o" --library_type=microlib --strict --scatter "..\..\Output\W5500.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\..\Listing\W5500.map" -o "..\..\Output\W5500.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\..\Output\W5500.axf'
+### ADS-LD Command File: '..\..\Output\W5500.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\..\Output\W5500.lnp', Handle=0x00000440
+### Writing '.lnp' file
+### ADS-LD Command file '..\..\Output\W5500.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
