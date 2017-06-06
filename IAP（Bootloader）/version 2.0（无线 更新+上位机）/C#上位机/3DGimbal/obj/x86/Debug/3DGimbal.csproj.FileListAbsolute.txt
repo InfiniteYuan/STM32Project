@@ -74,3 +74,14 @@ D:\Study\实验室\无人车\PowerModeling\2016-06-19\3DGimbal\obj\x86\Debug\_3D
 D:\Study\实验室\无人车\PowerModeling\2016-06-19\3DGimbal\bin\Debug\DatabaseClient.dll
 D:\Study\实验室\无人车\PowerModeling\2016-06-19\3DGimbal\bin\Debug\MySql.Data.dll
 D:\Study\实验室\无人车\PowerModeling\2016-06-19\3DGimbal\bin\Debug\DatabaseClient.pdb
+D:\Study\Program\GitHub\STM32\IAP（Bootloader）\version 2.0（无线 更新+上位机）\C#上位机\3DGimbal\obj\x86\Debug\3DGimbal.exe
+D:\Study\Program\GitHub\STM32\IAP（Bootloader）\version 2.0（无线 更新+上位机）\C#上位机\3DGimbal\obj\x86\Debug\3DGimbal.pdb
+D:\Study\Program\GitHub\STM32\IAP（Bootloader）\version 2.0（无线 更新+上位机）\C#上位机\3DGimbal\bin\Debug\3DGimbal.exe
+D:\Study\Program\GitHub\STM32\IAP（Bootloader）\version 2.0（无线 更新+上位机）\C#上位机\3DGimbal\bin\Debug\3DGimbal.pdb
+D:\Study\Program\GitHub\STM32\IAP（Bootloader）\version 2.0（无线 更新+上位机）\C#上位机\3DGimbal\bin\Debug\MySql.Data.dll
+D:\Study\Program\GitHub\STM32\IAP（Bootloader）\version 2.0（无线 更新+上位机）\C#上位机\3DGimbal\bin\Debug\DatabaseClient.pdb
+D:\Study\Program\GitHub\STM32\IAP（Bootloader）\version 2.0（无线 更新+上位机）\C#上位机\3DGimbal\bin\Debug\SerialCom.pdb
+D:\Study\Program\GitHub\STM32\IAP（Bootloader）\version 2.0（无线 更新+上位机）\C#上位机\3DGimbal\obj\x86\Debug\3DGimbal.csprojResolveAssemblyReference.cache
+D:\Study\Program\GitHub\STM32\IAP（Bootloader）\version 2.0（无线 更新+上位机）\C#上位机\3DGimbal\obj\x86\Debug\_3DGimbal.MainForm.resources
+D:\Study\Program\GitHub\STM32\IAP（Bootloader）\version 2.0（无线 更新+上位机）\C#上位机\3DGimbal\obj\x86\Debug\_3DGimbal.Properties.Resources.resources
+D:\Study\Program\GitHub\STM32\IAP（Bootloader）\version 2.0（无线 更新+上位机）\C#上位机\3DGimbal\obj\x86\Debug\3DGimbal.csproj.GenerateResource.Cache
